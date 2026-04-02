@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="1366" height="768" alt="START (1)" src="https://github.com/user-attachments/assets/ec7454ee-f642-45c6-9bcc-f3af4a06128d" />
+<img width="1366" height="768" alt="START (2)" src="https://github.com/user-attachments/assets/bf2b9086-0823-4513-b34c-83cbddae54a6" />
+
 <!--
 **3oFiz4/3oFiz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
