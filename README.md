@@ -35,7 +35,13 @@
 <br>
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
 
-# My *best repository
+# My *best* repository
+<a href="https://github.com/3oFiz4/exp_tracker">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=exp_tracker" />
+</a>
+<a href="https://github.com/3oFiz4/Statistic_Interpreter_CLI">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Statistic_Interpreter_CLI" />
+</a>
 <a href="https://github.com/3oFiz4/ETP2E_Euler_Topology_Planar">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=ETP2E_Euler_Topology_Planar" />
 </a>
