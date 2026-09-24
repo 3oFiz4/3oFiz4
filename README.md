@@ -63,7 +63,7 @@
 
 <!-- GITCOMMENT:START -->
 
-<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=0d8ab067b1" alt="Comments" width="880"></a>
+<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=f2539509c2" alt="Comments" width="880"></a>
 
 <sub><a href="https://github.com/3oFiz4/3oFiz4/discussions/1">leave a message</a></sub>
 
