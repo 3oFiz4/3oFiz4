@@ -1,0 +1,18 @@
+title: "Comments"
+subtitle: "go say something about me lol, no weird comment pls 👽"
+
+theme: dev
+variant: dark
+
+max_comments: 15
+message_max_length: 240
+
+show_avatar: true
+show_date: true
+
+moderation: automatic
+blocked_users: []
+
+filter_profanity: false
+blocked_words:
+  - single
