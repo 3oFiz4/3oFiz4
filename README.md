@@ -1,41 +1,9 @@
-# Intro
-<details style="display:inline;">
-  <summary style="
-    list-style: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 4px 10px;
-    font-size: 13px;
-    font-weight: 500;
-    border: 1px solid #e5e7eb;
-    border-radius: 999px;
-    background: #fafafa;
-    cursor: pointer;
-  ">
-    <span>Click to know more about me</span>
-  </summary>
-  <div style="
-    margin-top: 8px;
-    padding: 10px;
-    border: 1px solid #e5e7eb;
-    border-radius: 8px;
-    background: white;
-    max-width: 300px;
-  ">
-    <img width="1366" height="700" alt="START (3)" src="https://github.com/user-attachments/assets/e4a1ca27-3ae8-47ef-9757-5299ba38de7b" />
-    <img width="1366" height="700" alt="START (4)" src="https://github.com/user-attachments/assets/fc9bd797-cc9a-4b43-8279-777240b23581" />
-  </div>
-</details>
-
----
-
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)](https://github.com/3oFiz4/github-readme-stats-fast)<br>
 ![3oFiz4GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)
 <br>
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
 
-# My *best* repository
+# Best Repository
 <a href="https://github.com/3oFiz4/Exvia">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Exvia" />
 </a>
@@ -90,3 +58,8 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
+
+---
+
+<!-- GITCOMMENT:START -->
+<!-- GITCOMMENT:END -->
