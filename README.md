@@ -62,4 +62,9 @@
 ---
 
 <!-- GITCOMMENT:START -->
+
+<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments.svg?v=adbe6b1d25" alt="Comments" width="880"></a>
+
+<sub><a href="https://github.com/3oFiz4/3oFiz4/discussions/1">leave a message</a></sub>
+
 <!-- GITCOMMENT:END -->
