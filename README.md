@@ -7,6 +7,9 @@
 <a href="https://github.com/3oFiz4/Exvia">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Exvia" />
 </a>
+<a href="https://github.com/3oFiz4/Roblox_executor_test">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Roblox_executor_test" />
+</a>
 <a href="https://github.com/3oFiz4/Statistic_Interpreter_CLI">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Statistic_Interpreter_CLI" />
 </a>
