@@ -5,6 +5,20 @@
 <br>
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
 
+---
+
+Hello, I am 3ofiz4! I mostly known as Jordan, Yor, or 0xwszqa. I am a 18 years old extremely curious developer with a hobby in finding exploitation in any platform, or to simply to make life much more convenient. I am a gray-hat developer and bug hunter, and also a Full-Stack Web Developer and a Data Scientist. 
+
+I already made some exploits such as Roblox executor, Github Account Hijacker or GAC (private), Roblox Account Hijacker or RAC (private), Discord Account Hijacker via opening any `.txt` file format or DAC (private), Discord Server Nuker (private), Google Membership Extraction Automaton, and a lot more.  
+
+My exploit journey starts when I initially playing Counter-Strike when I was 13 years old, where I found an app called Cheat Engine, where I realized any game parts could be modified directly by modifying a specific memory address. From this, I started to learn my first programming language Lua, Python, JS, Rust, and then Assembly.  
+
+Turns out I realized that I am somewhat a menace to corporate platforms! And I am happy about it!
+
+Although beside that, I also love making UI and UX design. Most of my designs are minimalist, futuristic centered with monolithic black-white color pallete candidate. Apparently, I don't like colors.
+
+---
+
 
 
 # Best Repository
