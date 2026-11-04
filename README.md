@@ -1,6 +1,6 @@
 <img width="960" height="300" src="https://github.com/user-attachments/assets/5c6460c4-f62a-4ffd-82bd-9d80ce971c57" />
 
-
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
 ![3oFiz4GitHub stats](https://github-stats-extended.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)
 <br>
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
@@ -19,14 +19,24 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 
 ---
 
+# Top Starred Repository
 
+<a href="https://github.com/3oFiz4/DiscordCLI">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=DiscordCLI" />
+</a>
+<a href="https://github.com/3oFiz4/Python-steganography-CLI">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Python-steganography-CLI" />
+</a>
+<a href="https://github.com/3oFiz4/Roblox_executor_test">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Roblox_executor_test" />
+</a>
 
 # Best Repository
 <a href="https://github.com/3oFiz4/Exvia">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Exvia" />
 </a>
 <a href="https://github.com/3oFiz4/Roblox_executor_test">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Roblox_executor_test" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Roblox_executor_test" />
 </a>
 <a href="https://github.com/3oFiz4/Statistic_Interpreter_CLI">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Statistic_Interpreter_CLI" />
@@ -39,14 +49,14 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 </a>
 
 <a href="https://github.com/3oFiz4/DiscordCLI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=DiscordCLI" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=DiscordCLI" />
 </a>
 <a href="https://github.com/3oFiz4/ENFP-Animatronic">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=ENFP-Animatronic" />
 </a>
 
 <a href="https://github.com/3oFiz4/Python-steganography-CLI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Python-steganography-CLI" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Python-steganography-CLI" />
 </a>
 <a href="https://github.com/3oFiz4/Glyph2Text-transformer">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=fff&repo=Glyph2Text-transformer" />
