@@ -1,9 +1,18 @@
-<img width="960" height="300" src="https://github.com/user-attachments/assets/5c6460c4-f62a-4ffd-82bd-9d80ce971c57" />
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
-![3oFiz4GitHub stats](https://github-stats-extended.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)
-<br>
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
+
+<div align="center" style="display: flex;justify-items:center; align-items:center">
+  <img width="888" height="200" alt="Banner_GH" src="https://github.com/user-attachments/assets/fc7dd971-fded-436a-b4bb-fa8115045f58" />
+  
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
+  
+  ![3oFiz4GitHub stats](https://github-stats-extended.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)
+  <br>
+  
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
+  
+</div>
+
+
 
 ---
 
