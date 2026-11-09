@@ -98,7 +98,7 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 
 <!-- GITCOMMENT:START -->
 
-<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=e3c60310e3" alt="Comments" width="880"></a>
+<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=bbeb94a2f5" alt="Comments" width="880"></a>
 
 <sub><a href="https://github.com/3oFiz4/3oFiz4/discussions/1">leave a message</a></sub>
 
