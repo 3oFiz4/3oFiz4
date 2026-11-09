@@ -1,7 +1,7 @@
 
 
 <div align="center" style="display: flex;justify-items:center; align-items:center">
-  <img width="888" height="200" alt="Banner_GH" src="https://github.com/user-attachments/assets/79b56694-210f-4cc3-8f74-76befb376999" />
+  <img width="888" height="200" alt="Banner_GH" src="https://github.com/user-attachments/assets/23afe5ca-f7c0-4627-8628-1538691f7b89" />
   
   [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
   
