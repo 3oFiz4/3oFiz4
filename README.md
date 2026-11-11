@@ -1,32 +1,48 @@
 
 
-<div align="center" style="display: flex;justify-items:center; align-items:center">
+<div style="display: flex;justify-items:center; align-items:center">
   <img width="888" height="200" alt="Banner_GH" src="https://github.com/user-attachments/assets/0bbc2687-45fb-430e-9591-244dbe7c23cc" />
   
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=3ofiz4&theme=highcontrast&hide_border=true&border_radius=0&fire=EB0000&ring=EB0000&currStreakLabel=EB0000)](https://git.io/streak-stats)<br>
   
-  ![3oFiz4GitHub stats](https://github-stats-extended.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000)
+  ![3oFiz4GitHub stats](https://github-stats-extended.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&ring_color=f00)
   <br>
   
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&layout=donut)](https://github.com/3oFiz4/github-readme-stats)
-  
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=f00&title_color=fff&icon_color=000&langs_count=20&hide_progress=true)](https://github.com/3oFiz4/github-readme-stats)
+
+  <!-- flexing purpose lmao -->
+  [![3oFiz4 on GitRanks: Rank Expert](https://gitranks.com/badge/user/3oFiz4/tier.svg?by=followers&scheme=custom&left=%23000000&right=%23ff0000&label=Rank)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: Python rank #231,114 · of 860,173](https://gitranks.com/badge/user/3oFiz4/language-rank.svg?scheme=custom&left=%23000000&right=%23000000)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: this month ↑594,131 places](https://gitranks.com/badge/user/3oFiz4/climb.svg?scheme=custom&left=%23000000&right=%23000000)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: star this month +82 ★](https://gitranks.com/badge/user/3oFiz4/month.svg?scheme=custom&left=%23000000&right=%23000000&label=star+this+month)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: next goal top 250,000 devs · 19 ★ to go](https://gitranks.com/badge/user/3oFiz4/goal.svg?scheme=custom&left=%23000000&right=%23000000)](https://gitranks.com/profile/3oFiz4)
 </div>
 
 
 
 ---
 
-Hello, I am 3ofiz4! I mostly known as Jordan, Yor, or 0xwszqa. I am a 18 years old extremely curious developer with a hobby in finding exploitation in any platform, or to simply to make life much more convenient. I am a gray-hat developer and bug hunter, and also a Full-Stack Web Developer and a Data Scientist. 
+Hello, I am 3ofiz4! I mostly known as Jordan, Yor (if we're very close), or 0xwszqa. I am a 18 years old extremely curious developer with a hobby in finding exploitation in any platform, or to simply to make life much more convenient. I am a gray-hat developer and bug hunter, and also a Full-Stack Web Developer and a Data Scientist. I am not a really formal person, except when in professional setting. If you're also a teenager, have same hobby like I do, lets be fwen and hit me up on Discord (@erielofgod), I am ENFP if that matters hehehe.
 
 I have intense ambition in Philosophy, Psychology, Neuroscience, Programming, Mathematics, Engineering, and Biology.
 
-I already made some exploits such as Roblox executor, Github Account Hijacker or GAC (private), Roblox Account Hijacker or RAC (private), Discord Account Hijacker via opening any `.txt` file format or DAC (private), Discord Server Nuker (private), Google Membership Extraction Automaton, and a lot more.  
+I already made some exploits such as Roblox executor, Github Account Hijacker, Roblox Account Hijacker, and a lot more exploit... some of them are private tho  
 
-My exploit journey starts when I initially playing Counter-Strike when I was 13 years old, where I found an app called Cheat Engine, where I realized any game parts could be modified directly by modifying a specific memory address. From this, I started to learn my first programming language Lua, Python, JS, Rust, and then Assembly.  
+My exploit journey starts when I initially playing Counter-Strike when I was 13 years old, where I found an app called Cheat Engine, where I realized any game parts could be modified directly by modifying a specific memory address. From this, I started to learn my first programming language Lua, Python, JS, Rust, and then Assembly. My interest Data Science rises, when I realized everything I see, touch, experience, all just probabilistic model. My interest in web dev rises, simply for my love for creativity, arts, and design, and realized same stuff could happen in the screen.
 
-Turns out I realized that I am somewhat a menace to corporate platforms! And I am happy about it!
+~~Turns out I realized that I am somewhat a menace to corporate platforms! And I am happy about it!~~
 
 Although beside that, I also love making UI and UX design. Most of my designs are minimalist, futuristic centered with monolithic black-white color pallete candidate. Apparently, I don't like colors.
+
+**Life goals (most priority -> less priority): Contribute to human consciousness research, created at least 3 engineering stuff that contributes humanity especially on neuroscience field, invent a new concept within mathematics field, be a monk/hermit in some high mountain**
+
+Thank you list 🖤:
+- to my dad (an Engineer Architecture that codes in Fortran and was once a pilot) who raised me as an Engineer and a Programmer at the same time <3
+- to my mom (a spirited and kind mother ofc) who raised me to be kind with each other, while teaching me how to be kind with oneself <3
+- to my siblings, for testing my nerve every time OBviously.
+- to my mentors, those who help me in the unexpected way possible. tysm... from a random guy that decides to fulfil 50% of my school needs, a guy that shapes my future for programming, a girl that helps me with psychology <3
+- to my friends, both real life and online, for being patient with this slightly mentally ill guy <3
+- to myself, for everything <3
 
 ---
 
