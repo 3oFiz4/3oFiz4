@@ -8,7 +8,7 @@
   ![3oFiz4GitHub stats](https://github-stats-extended.vercel.app/api?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&ring_color=f00)
   <br>
   
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=f00&title_color=fff&icon_color=000&langs_count=20&hide_progress=true)](https://github.com/3oFiz4/github-readme-stats)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&langs_count=20&hide_progress=true)](https://github.com/3oFiz4/github-readme-stats)
 
   <!-- flexing purpose lmao -->
   [![3oFiz4 on GitRanks: Rank Expert](https://gitranks.com/badge/user/3oFiz4/tier.svg?by=followers&scheme=custom&left=%23000000&right=%23ff0000&label=Rank)](https://gitranks.com/profile/3oFiz4)
