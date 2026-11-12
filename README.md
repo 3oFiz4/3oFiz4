@@ -35,15 +35,6 @@ My exploit journey starts when I initially playing Counter-Strike when I was 13 
 Although beside that, I also love making UI and UX design. Most of my designs are minimalist, futuristic centered with monolithic black-white color pallete candidate. Apparently, I don't like colors.
 
 **Life goals (most priority -> less priority): Contribute to human consciousness research, created at least 3 engineering stuff that contributes humanity especially on neuroscience field, invent a new concept within mathematics field, be a monk/hermit in some high mountain**
-
-Thank you list 🖤:
-- to my dad (an Engineer Architecture that codes in Fortran and was once a pilot) who raised me as an Engineer and a Programmer at the same time <3
-- to my mom (a spirited and kind mother ofc) who raised me to be kind with each other, while teaching me how to be kind with oneself <3
-- to my siblings, for testing my nerve every time OBviously.
-- to my mentors, those who help me in the unexpected way possible. tysm... from a random guy that decides to fulfil 50% of my school needs, a guy that shapes my future for programming, a girl that helps me with psychology <3
-- to my friends, both real life and online, for being patient with this slightly mentally ill guy <3
-- to myself, for everything <3
-
 ---
 
 # Top Starred Repository
