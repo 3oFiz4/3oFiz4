@@ -34,7 +34,8 @@ My exploit journey starts when I initially playing Counter-Strike when I was 13 
 
 Although beside that, I also love making UI and UX design. Most of my designs are minimalist, futuristic centered with monolithic black-white color pallete candidate. Apparently, I don't like colors.
 
-**Life goals (most priority -> less priority): Contribute to human consciousness research, created at least 3 engineering stuff that contributes humanity especially on neuroscience field, invent a new concept within mathematics field, be a monk/hermit in some high mountain**
+**Life goals (most priority -> less priority): Contribute to human consciousness research, created at least 3 engineering stuff that contributes humanity especially on neuroscience field, invent a new concept within mathematics field, be a monk/hermit in some high mountain** _(this does not include github contributions tho lol)_
+
 ---
 
 # Top Starred Repository
