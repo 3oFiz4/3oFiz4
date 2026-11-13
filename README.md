@@ -11,11 +11,16 @@
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&langs_count=20&hide_progress=true)](https://github.com/3oFiz4/github-readme-stats)
 
   <!-- flexing purpose lmao -->
-  [![3oFiz4 on GitRanks: Rank Expert](https://gitranks.com/badge/user/3oFiz4/tier.svg?by=followers&scheme=custom&left=%23000000&right=%23ff0000&label=Rank)](https://gitranks.com/profile/3oFiz4)
-  [![3oFiz4 on GitRanks: Python rank #231,114 · of 860,173](https://gitranks.com/badge/user/3oFiz4/language-rank.svg?scheme=custom&left=%23000000&right=%23000000)](https://gitranks.com/profile/3oFiz4)
-  [![3oFiz4 on GitRanks: this month ↑594,131 places](https://gitranks.com/badge/user/3oFiz4/climb.svg?scheme=custom&left=%23000000&right=%23000000)](https://gitranks.com/profile/3oFiz4)
-  [![3oFiz4 on GitRanks: star this month +82 ★](https://gitranks.com/badge/user/3oFiz4/month.svg?scheme=custom&left=%23000000&right=%23000000&label=star+this+month)](https://gitranks.com/profile/3oFiz4)
-  [![3oFiz4 on GitRanks: next goal top 250,000 devs · 19 ★ to go](https://gitranks.com/badge/user/3oFiz4/goal.svg?scheme=custom&left=%23000000&right=%23000000)](https://gitranks.com/profile/3oFiz4)
+  ---
+  # GitRanks 
+  [+] https://gitranks.com/profile/3oFiz4<br><br>
+  [![3oFiz4 on GitRanks: Rank Expert](https://gitranks.com/badge/user/3oFiz4/tier.svg?by=followers&scheme=custom&left=%23000000&right=%23ff0000&label=Rank&logo=0)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: Python rank #88,613 · top 20%](https://gitranks.com/badge/user/3oFiz4/language-rank.svg?language=Python&extra=top&scheme=custom&left=%23000000&right=%23000000&logo=0)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: this month ↑594,131 places](https://gitranks.com/badge/user/3oFiz4/climb.svg?scheme=custom&left=%23000000&right=%23000000&logo=0)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: this month +155 ★](https://gitranks.com/badge/user/3oFiz4/month.svg?scheme=custom&left=%23000000&right=%23000000&logo=0)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: next goal top 250,000 devs · 19 ★ to go](https://gitranks.com/badge/user/3oFiz4/goal.svg?scheme=custom&left=%23000000&right=%23000000&logo=0)](https://gitranks.com/profile/3oFiz4)
+  [![3oFiz4 on GitRanks: stars rank #817 in Indonesia · top 9%](https://gitranks.com/badge/user/3oFiz4/rank.svg?scope=country&scheme=custom&left=%23000000&right=%23000000&logo=0)](https://gitranks.com/profile/3oFiz4/country)
+  [![3oFiz4 on GitRanks: followers rank #1,252 in Indonesia · top 7%](https://gitranks.com/badge/user/3oFiz4/rank.svg?by=followers&scope=country&scheme=custom&left=%23000000&right=%23000000&logo=0)](https://gitranks.com/profile/3oFiz4/country)
 </div>
 
 
