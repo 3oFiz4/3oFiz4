@@ -120,7 +120,7 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 
 <!-- GITCOMMENT:START -->
 
-<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=5c64fe91d4" alt="Comments" width="880"></a>
+<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=7a63f69dd0" alt="Comments" width="880"></a>
 
 <sub><a href="https://github.com/3oFiz4/3oFiz4/discussions/1">leave a message</a></sub>
 
