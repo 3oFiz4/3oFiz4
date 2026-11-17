@@ -10,7 +10,7 @@
   
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=3oFiz4&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&langs_count=20&hide_progress=true)](https://github.com/3oFiz4/github-readme-stats)
 
-  [![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=3ofiz4&bg_color=000000&title_color=ff0000&text_color=ffffff&font=monospace&ring_color=#ff0000)](https://github.com/francisdav1d/monkeytype-readme-stats)
+  [![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=3ofiz4&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&font=monospace&ring_color=ff0000)](https://github.com/francisdav1d/monkeytype-readme-stats)
 
   <!-- flexing purpose lmao -->
   ---
