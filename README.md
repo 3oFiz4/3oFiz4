@@ -94,6 +94,8 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 
 # Mostly Used Stack
 
+<a href="https://www.neovim.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="40" height="40"/></a>
+<a href="idk" target="_blank"><img src="https://wezterm.org/favicon.svg" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
@@ -109,6 +111,7 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
 <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
+<a href="https://www.selenium.dev" target="_blank"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1280px-Ghidra_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="40" height="40"/></a>
 <br><br>
 
 # Other Stack
@@ -119,6 +122,10 @@ Although beside that, I also love making UI and UX design. Most of my designs ar
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/></a>
+
+# Tools (Terminal)
+<!-- I intentionally add these :3, incase dotfiles can save my stuff -->
+nvim (main IDE/notepad), yazi (file explorer), neofetch, fzf, rg, fd, zoxide, eza, gh (like git but remote), git (local version controller), npm, node, uv, python, pip, pipx, scoop, winget, cargo, chocolatey, bob (version manager), bun, hermes, agy, 9router, aider, mpv, ytm, jq, yq, 7zip, bat, dc (check DiscordCLI), ffmpeg, krita (for drawing), mouzi, rtk, topgrade, xampp, dotnet, wezterm (main terminal) 
 
 ---
 
