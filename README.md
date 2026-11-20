@@ -131,7 +131,7 @@ nvim (main IDE/notepad), yazi (file explorer), neofetch, fzf, rg, fd, zoxide, ez
 
 <!-- GITCOMMENT:START -->
 
-<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=9659f6b01f" alt="Comments" width="880"></a>
+<a href="https://github.com/3oFiz4/3oFiz4/discussions/1"><img src=".github/gitcomment/comments-dev.svg?v=80116f0023" alt="Comments" width="880"></a>
 
 <sub><a href="https://github.com/3oFiz4/3oFiz4/discussions/1">leave a message</a></sub>
 
